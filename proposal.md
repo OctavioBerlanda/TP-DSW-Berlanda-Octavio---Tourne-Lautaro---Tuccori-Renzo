@@ -7,7 +7,7 @@
 * 51308 - Tuccori, Renzo (Comisión 302)
 
 ### Repositorios
-* [fullstack app]([http://hyperlinkToGihubOrGitlab](https://github.com/RenTuccori/Trabajo-Dsw))
+* [fullstack app](https://github.com/RenTuccori/Trabajo-Dsw)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
@@ -16,7 +16,7 @@ Elegimos desarrollar una plataforma para gestionar la organización de eventos. 
 
 ### Modelo
 
-![Imagen del modelo]([url_de_la_imagen](https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view?usp=sharing))
+![Imagen del modelo](https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view?usp=sharing))
 
 ## Alcance Funcional 
 
