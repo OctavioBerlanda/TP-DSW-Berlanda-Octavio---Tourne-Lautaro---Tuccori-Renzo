@@ -15,7 +15,7 @@ Elegimos desarrollar una plataforma para gestionar la organización de eventos. 
 
 ### Modelo
 
-![Imagen del modelo]([https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view?usp=sharing](https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view))
+[Imagen del modelo](https://drive.google.com/uc?export=view&id=1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq)
 
 ## Alcance Funcional 
 
