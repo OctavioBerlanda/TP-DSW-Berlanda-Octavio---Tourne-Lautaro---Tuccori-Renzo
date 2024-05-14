@@ -7,8 +7,7 @@
 * 51308 - Tuccori, Renzo (Comisión 302)
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [fullstack app]([http://hyperlinkToGihubOrGitlab](https://github.com/RenTuccori/Trabajo-Dsw))
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
@@ -16,7 +15,8 @@
 Elegimos desarrollar una plataforma para gestionar la organización de eventos. Nuestra aplicación de planificación y organización de eventos tiene como objetivo simplificar el proceso de planificación y ejecución tanto de eventos sociales como corporativos. Ofreceremos una plataforma integral que abarca todas las etapas del proceso, desde la concepción del evento hasta su realización final, ofreciendo funciones como gestión de invitados, seguimiento de presupuesto, listados de eventos, seguimiento del estado del evento, seguimiento de las tareas necesarias para el evento y selección de proveedores. 
 
 ### Modelo
-Imágen del modelo: https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view?usp=sharing
+
+![Imagen del modelo]([url_de_la_imagen](https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view?usp=sharing))
 
 ## Alcance Funcional 
 
