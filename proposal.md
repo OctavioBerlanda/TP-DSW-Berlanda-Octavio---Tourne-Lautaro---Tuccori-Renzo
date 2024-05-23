@@ -7,16 +7,14 @@
 * 51308 - Tuccori, Renzo (Comisión 302)
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [frontend app](https://github.com/RenTuccori/Trabajo-Dsw)
 
 ## Tema
 ### Descripción
 Desarrollaremos una plataforma de autoservicio para la planificación y organización de eventos, diseñada para simplificar el proceso desde la concepción hasta la ejecución final. Nuestra aplicación permite crear, compartir, buscar y participar en actividades apasionantes y enriquecedoras. Ofrecemos una solución integral que incluye funciones como listados de eventos y seguimiento del estado de cada evento. La plataforma facilita la organización y participación en estas actividades, asegurando una experiencia enriquecedora para todos los involucrados.
 
 ### Modelo
-Imágen del modelo: [https://drive.google.com/file/d/1wY-0JDNo3SaRp6FMSnI9KMyycjABL7qq/view?usp=sharing](https://drive.google.com/file/d/11yjKW7JyxXlUM4UZs2uSc9BtodrLCimf/view?usp=sharing)
+![Modelo de dominio](https://drive.google.com/uc?export=view&id=1jILXVxI811vL7Hh7TDEgNx8LXvbwRZ-I)
 
 ## Alcance Funcional 
 
