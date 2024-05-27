@@ -14,7 +14,7 @@
 Desarrollaremos una plataforma de autoservicio para la planificación y organización de eventos, diseñada para simplificar el proceso desde la concepción hasta la ejecución final. Nuestra aplicación permite crear, compartir, buscar y participar en actividades apasionantes y enriquecedoras. Ofrecemos una solución integral que incluye funciones como listados de eventos y seguimiento del estado de cada evento. La plataforma facilita la organización y participación en estas actividades, asegurando una experiencia enriquecedora para todos los involucrados.
 
 ### Modelo
-![Modelo de dominio]([https://drive.google.com/uc?export=view&id=1jILXVxI811vL7Hh7TDEgNx8LXvbwRZ-I])
+![Modelo de dominio]((https://drive.google.com/file/d/1XoyyE_ARHMzhMTNvcvJKijmMCxmdIMCr/view?usp=sharing))
 
 ## Alcance Funcional 
 
