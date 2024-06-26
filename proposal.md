@@ -14,7 +14,7 @@
 Nosotros desarrollaremos una aplicación de turnos online para el sanatorio, diseñada para optimizar la gestión de citas médicas tanto para pacientes como para el personal del sanatorio. Esta plataforma facilitará la reserva de turnos de manera eficiente, brindando acceso a información relevante y mejorando la experiencia general del servicio de salud.
 
 ### Modelo
-![Modelo de dominio](https://drive.google.com/file/d/1XoyyE_ARHMzhMTNvcvJKijmMCxmdIMCr/view?usp=sharing)
+![Modelo de dominio](https://drive.google.com/uc?export=view&id=1XoyyE_ARHMzhMTNvcvJKijmMCxmdIMCr)
 
 ## Alcance Funcional 
 
