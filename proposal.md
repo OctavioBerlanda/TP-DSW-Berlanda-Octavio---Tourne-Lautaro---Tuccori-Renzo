@@ -42,6 +42,6 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Listado de turnos pendientes a confirmacion, confirmados y asistidos <br>2. Eventos pendientes, completados y cancelados filtrados por anfitrion muestra datos del anfitrión y de cada evento: fecha, cantidad de personas que asisten, lugar y estado |
+|Listados |1. Listado de turnos pendientes a confirmacion, confirmados y asistidos <br>2.  |
 |CUU/Epic|1. Consultar turnos Medico <br>2. Cancelar Evento|
 
