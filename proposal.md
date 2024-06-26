@@ -7,8 +7,8 @@
 * 51308 - Tuccori, Renzo (Comisión 302)
 
 ### Repositorios
-* [fullstack app](https://github.com/RenTuccori/Trabajo-Dsw)
-
+* [Back End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/BackEnd)
+* [Front End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/FrontEnd)
 ## Tema
 ### Descripción
 Nosotros desarrollaremos una aplicación de turnos online para el sanatorio, diseñada para optimizar la gestión de citas médicas tanto para pacientes como para el personal del sanatorio. Esta plataforma facilitará la reserva de turnos de manera eficiente, brindando acceso a información relevante y mejorando la experiencia general del servicio de salud.
