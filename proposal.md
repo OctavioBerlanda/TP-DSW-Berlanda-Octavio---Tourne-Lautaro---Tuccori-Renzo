@@ -33,7 +33,7 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Persona<br>2. CRUD Medico<br>3. CRUD Turno<br>4. CRUD Especialidad<br>5. CRUD Obra Social<br>6. CRUD Evento<br>|
-|CUU/Epic|1. Listar turno<br>2. Confirmar turno por mail<br>3. Cancelar turno|
+|CUU/Epic|1. Listar turno<br>2. Confirmar turno por mail<br>3. Cancelar turno<br>4. Recordatorio pór mail un dia antes|
 
 
 ### Alcance Adicional Voluntario
