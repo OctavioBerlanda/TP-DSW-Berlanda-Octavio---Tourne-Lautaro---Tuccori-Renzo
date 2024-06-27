@@ -11,7 +11,7 @@
 * [Front End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/FrontEnd)
 ## Tema
 ### Descripción
-Nosotros desarrollaremos una aplicación de turnos online para el sanatorio, diseñada para optimizar la gestión de citas médicas tanto para pacientes como para el personal del sanatorio. Esta plataforma facilitará la reserva de turnos de manera eficiente, brindando acceso a información relevante y mejorando la experiencia general del servicio de salud.
+Desarrollaremos una aplicación de turnos online para el sanatorio, diseñada para optimizar la gestión de citas médicas tanto para pacientes como para el personal del sanatorio. Esta plataforma facilitará la reserva de turnos de manera eficiente, brindando acceso a información relevante y mejorando la experiencia general del servicio de salud.
 
 ### DER
 ![Diagrama de Entidad Relacion](https://drive.google.com/uc?export=view&id=122IO0ubhLDxhaA4X3e-sbBzIuYNGYRmf)
