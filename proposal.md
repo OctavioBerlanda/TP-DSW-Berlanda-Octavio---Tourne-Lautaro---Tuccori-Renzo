@@ -10,6 +10,7 @@
 * [Back End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/BackEnd)
 * [Front End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/FrontEnd)
 ### Repositorios (anterior)
+En el proyecto anterior quisimos hacer una pagina de gestion de eventos pero como nos convencio la idea, decidimos tirarlo y empezar un proyecto nuevo de un sanatorio (el de arriba)
 * [Full-Stack App](https://github.com/RenTuccori/Trabajo-Dsw-Anterior)
 ## Tema
 ### Descripción
