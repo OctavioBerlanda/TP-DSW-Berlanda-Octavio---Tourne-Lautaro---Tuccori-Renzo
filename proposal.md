@@ -26,8 +26,8 @@ Desarrollaremos una aplicación de turnos online para el sanatorio, diseñada pa
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Medico<br>2. CRUD Persona<br>3. CRUD Obra Social|
-|CRUD dependiente|1. CRUD Turno {depende de} CRUD Persona y Medico<br>2. CRUD Historial medico {depende de} CRUD Medico y Persona  |
+|CRUD simple|1. CRUD Sede<br>2. CRUD Especialidad<br>3. CRUD Obra Social|
+|CRUD dependiente|1. CRUD Turno {depende de} CRUD Persona y Medico<br>2. CRUD Combinación (Una sede, una especialidad y un doctor) {depende de} CRUD Sede, especialidad y doctor  |
 |Listado<br>+<br>detalle| 1. Listado de medicos filtrado por especialidad, muestra nombre, apellido del medico <br> 2. Listado de turnos filtrado por rango de fechas, muestra fecha de turno, hora, especialidad y medicos|
 |CUU/Epic|1. Crear un nuevo turno Paciente <br>2. Consultar turnos Medico |
 
