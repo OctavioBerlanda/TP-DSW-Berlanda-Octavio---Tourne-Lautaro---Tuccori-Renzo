@@ -59,7 +59,7 @@ El frontend debe cumplir con las siguientes condiciones para regularidad y aprob
 * Guía de estilos sugerida Airbnb Javascript https://github.com/airbnb/javascript
 * Aplicar la estrategia mobile-first para la escritura del código css de la aplicación
 * La app debe visualizarse correctamente en al menos 3 diferentes breakpoints: SM, MD, LG
-* Seguir buenas prácticas de UX/UI ( Que no requiera manual de usuario o explicaciones específicas para utilizar la interfaz )
+* Seguir buenas prácticas de UX/UI (Que no requiera manual de usuario o explicaciones específicas para utilizar la interfaz)
 * Las app debe mostrar las siguientes características entre sus componentes:
 	* Manejo de eventos del usuario: click, input, etc
 	* Ante una posibilidad de fallo, manejar el/los errores adecuadamente y de manera amigable al usuario
@@ -104,32 +104,38 @@ Esto será considerado en la nota final en función de la complejidad y esfuerzo
 En la entrega se debe entregar a los profesores la [plantilla de propuesta](./proposal.md) actualizada con las condiciones de Regularidad y de Aprobación. Los profesores analizarán la propuesta y de ser necesario sugerirán ajustes hasta que esté correcta y sea aceptada.
 
 #### Regularidad
-En la entrega se debe 
-* Incluir en el README.md (o con un link) las instrucciones para instalar y ejecutar el proyecto sin conocimientos de cómo está desarrollado. El proyecto debe poder ejecutarse con scripts y las herramientas según las convenciones del lenguaje y/o framework utilizado (scripts en package.json, o tools específicas del framework).
-* Entregar la [proposal](./proposal.md) actualizada con links al pull request de back y/o front.
-* Coordinar una defensa grupal con los profesores.
+En la entrega se debe entregar:
+* El README.md (o con un link) las instrucciones para instalar y ejecutar el proyecto sin conocimientos de cómo está desarrollado. El proyecto debe poder ejecutarse con scripts y las herramientas según las convenciones del lenguaje y/o framework utilizado (scripts en package.json, o tools específicas del framework).
+* Entregar la [proposal](./proposal.md) actualizada con links al pull request de back y/o front mediante el form publicado para cada año.
+
+Coordinar una defensa grupal con los profesores.
 
 #### Aprobación Directa o en Examen
-En la entrega se debe:
+En la entrega se debe enviar:
 * Video explicando el funcionamiento del sistema
 * Documentación de la API de backend (según la tecnología y standard utilizados).
 * Evidencia del resultado de la ejecución de los tests automáticos.
 * Entregar la [proposal](./proposal.md) actualizada con links al pull request de back y/o front.
 * Incluir en el README.md (o con un link) las instrucciones para instalar y ejecutar el proyecto sin conocimientos de cómo está desarrollado. El proyecto debe poder ejecutarse con scripts y las herramientas según las convenciones del lenguaje y/o framework utilizado (scripts en package.json, o tools específicas del framework).
-* Deploy: **A definir**
-* Coordinar una defensa grupal con los profesores.
+* Links de Deploy
+* Credenciales para utilizar la aplicación deployada
+* Contacto para coordinar la defensa
+
+El envío se debe realizar por el form https://kutt.it/DSWEntregaSistemaFinal y coordinar con el docente una defensa grupal con los profesores.
+
+Para la Aprobación Directa la defensa debe pactarse con los docentes dentro de los plazos indicados a continuación.
+Para la Aprobación en Examen la defensa debe pactarse con los docentes y realizarse antes de la fecha de la mesa de examen.
 
 #### Fechas de entrega
-**TODO: A definir**
-**Propuesta**: 23/06/2023
+**Propuesta**: Durante Abril
 
-**Muestra de avance**: TBD
+**Muestra de avance**: Inicio del segundo cuatrimestre
 
-**Entrega de Regularidad**: TBD
+**Primer Entrega de Regularidad/AD**: 17/10/2025
 
-**Entrega de Aprobación**: TBD
-* **Directa**:
-* **En examen**:
+**Primer Recuperatorio/Globalizador de Regularidad/AD**: 31/10/2025
+
+**Ultima instancia Recuperatorio/Globalizador de Regularidad/AD**: 14/11/2025
 
 ### 3.4 Documentación
 La documentación debe presentarse para la instancia de defensa.
@@ -150,7 +156,6 @@ Es de libre elección del alumno la herramienta a utilizar para el trackeo. Se r
 
 
 ## 5. Evaluación
-**TODO: En revisión.**
 
 Durante la evaluación de cada entrega se considerarán:
 * Requisitos técnicos y funcionales de la etapa.
@@ -162,6 +167,7 @@ Durante la evaluación de cada entrega se considerarán:
 * Defensa oral del trabajo práctico.
 * Gestión y seguimiento del desarrollo de la app.
 * Innovación, investigación y desafíos asumidos.
+* Documentación solicitada.
 
 ## 6. FAQ
 
