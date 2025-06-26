@@ -44,5 +44,4 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |Listados |1. Listado de turnos pendientes a confirmacion, confirmados y asistidos <br>2. Listado de medicos filtrado por especialidad |
-|CUU/Epic|1. Consultar especialidades mas concurridas en el mes <br>2. Consultar pacientes mas recurrentes |
 
