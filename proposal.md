@@ -9,9 +9,7 @@
 ### Repositorios (actuales)
 * [Back End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/BackEnd)
 * [Front End](https://github.com/RenTuccori/Trabajo-Dsw/tree/main/FrontEnd)
-### Repositorios (anterior)
-En el proyecto anterior quisimos hacer una pagina de gestion de eventos pero como nos convencio la idea, decidimos tirarlo y empezar un proyecto nuevo de un sanatorio (el de arriba). Dejamos este repo para dejar constancia que cumplimos la entrega anterior.
-* [Full-Stack App](https://github.com/RenTuccori/Trabajo-Dsw-Anterior)
+
 ## Tema
 ### Descripción
 Desarrollaremos una aplicación de turnos online para el sanatorio, diseñada para optimizar la gestión de citas médicas tanto para pacientes como para el personal del sanatorio. Esta plataforma facilitará la reserva de turnos de manera eficiente, brindando acceso a información relevante y mejorando la experiencia general del servicio de salud.
