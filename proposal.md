@@ -15,7 +15,7 @@
 Desarrollaremos una aplicación de turnos online para el sanatorio, diseñada para optimizar la gestión de citas médicas tanto para pacientes como para el personal del sanatorio. Esta plataforma facilitará la reserva de turnos de manera eficiente, brindando acceso a información relevante y mejorando la experiencia general del servicio de salud.
 
 ### DER
-![Diagrama de Entidad Relacion](https://github.com/OctavioBerlanda/TP-DSW-Berlanda-Octavio---Tourne-Lautaro---Tuccori-Renzo/blob/main/DERturnosOnline.drawio.png)
+![Diagrama de Entidad Relacion](modelo.png)
 
 ## Alcance Funcional 
 
